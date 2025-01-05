@@ -18,7 +18,7 @@ My name is Brayan Vicente, a graduate in Computer Science and Audiovisual Media.
 - **Audiovisual production tools**: Adobe Premiere, Adobe Photoshop, Lightroom, DaVinci Resolve
 - **Others**: Git, Jupyter, Azure, DataSpell, Pycharm, VS Code, Android Studio, Anaconda, Notion
 
-## 📊 About me:
+## 💀 About me:
 I am a problem solver with an analytical mindset, always looking to improve my skills and stay updated with the latest trends in data science. I love working on collaborative projects and contributing to the open-source community.
 
 ## 📈 Featured projects / Repositories:
