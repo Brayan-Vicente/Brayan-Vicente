@@ -1,4 +1,4 @@
-# Welcome to my profile
+# Welcome human
 My name is Brayan Vicente, a graduate in Computer Science and Audiovisual Media. I am a data scientist passionate about data analysis, artificial intelligence, and building predictive models. My goal is to transform complex data into clear insights and innovative solutions. With experience in data analysis, machine learning, and visualization, I enjoy solving real-world problems using cutting-edge tools.
 
 ## 🚀 Areas of expertise:
