@@ -10,7 +10,7 @@ My name is Brayan Vicente, a graduate in Computer Science and Audiovisual Media.
 - Optimization and advanced algorithms
 - Database design and optimization
 
-## ➤ Tools and technologies:
+## Tools and technologies:
 - **Programming languages**: Python🐍, R, SQL, JavaScript, Dart
 - **Libraries and frameworks**: Pandas🐼, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, Plotly, Geopandas🌐🐼
 - **Databases**: MySQL, MongoDB, SQLite
@@ -18,14 +18,14 @@ My name is Brayan Vicente, a graduate in Computer Science and Audiovisual Media.
 - **Audiovisual production tools**: Adobe Premiere, Adobe Photoshop, Lightroom, DaVinci Resolve
 - **Others**: Git, Jupyter, Azure, DataSpell, Pycharm, VS Code, Android Studio, Anaconda, Notion <3
 
-## ➤ Portfolio
+## Corpusdata Portfolio
 https://sites.google.com/view/corpusdata/servicios/
 
-## ➤ About me:
+## About me:
 I am a problem solver with an analytical mindset, always looking to improve my skills and stay updated with the latest trends in data science. I love working on collaborative projects and contributing to the open-source community.
 
 ## 📈 Featured projects:
 - **Exploratory analysis Open government data:** https://github.com/Brayan-Vicente/datascience-project/blob/main/notebooks/2_exploracion.ipynb
 - **Análisis de Turismo en Colombia:** https://github.com/Brayan-Vicente/analisis_turismo_colombia/blob/main/Notebooks/Analysis.ipynb
 
-Thank you for visiting my profile! :3
+Thank you for visiting my profile! ;3
