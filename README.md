@@ -10,7 +10,7 @@ My name is Brayan Vicente, a graduate in Computer Science and Audiovisual Media.
 - Optimization and advanced algorithms
 - Database design and optimization
 
-## 🛠️ Tools and technologies:
+## 🛠 Tools and technologies:
 - **Programming languages**: Python🐍, R, SQL, JavaScript, Dart
 - **Libraries and frameworks**: Pandas🐼, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, Plotly, Geopandas🌐🐼
 - **Databases**: MySQL, MongoDB, SQLite
