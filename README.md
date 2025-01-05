@@ -8,16 +8,16 @@ Soy un científico de datos apasionado por el análisis de datos, la inteligenci
 - Análisis estadístico y econometría
 - Visualización de datos
 - Big Data y herramientas de procesamiento de datos
-- Implementación de modelos en producción
 - Optimización y algoritmos avanzados
+- Diseño y Optimización de bases de datos
 
 ## 🛠️ Herramientas y tecnologías:
-- **Lenguajes de programación**: Python, R, SQL, JavaScript
-- **Librerías y frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, Plotly
-- **Bases de datos**: MySQL, PostgreSQL, MongoDB, SQLite
-- **Big Data**: Spark, Hadoop
-- **Herramientas de visualización**: Tableau, Power BI, Matplotlib, Seaborn
-- **Otros**: Git, Docker, Jupyter, VS Code, AWS, Google Cloud Platform
+- **Lenguajes de programación**: Python, R, SQL, JavaScript, Dart
+- **Librerías y frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, Plotly, Geopandas
+- **Bases de datos**: MySQL, MongoDB, SQLite
+- **Herramientas de visualización**: Power BI, Tableau, Matplotlib, Seaborn
+- **Herramientas de producción audiovisual**: Adobe Premiere, Abobe Photoshop, Lightroom, DaVinci Resolve
+- **Otros**: Git, Jupyter, Azure, DataSpell, Pycharm, VS Code, Android Studio, Anaconda, Notion, 
 
 ## 📈 Proyectos destacados:
 - **[Nombre del Proyecto 1]**: Descripción breve del proyecto, enfoque y resultados obtenidos.
@@ -28,9 +28,8 @@ Soy un científico de datos apasionado por el análisis de datos, la inteligenci
 Soy un solucionador de problemas con una mentalidad analítica, siempre buscando mejorar mis habilidades y mantenerme actualizado con las últimas tendencias en ciencia de datos. Me encanta trabajar en proyectos colaborativos y contribuir a la comunidad de código abierto.
 
 ## 📫 Contacto:
-- **LinkedIn**: [Tu perfil de LinkedIn]
-- **Email**: [Tu correo electrónico]
-- **Kaggle**: [Tu perfil de Kaggle] (si aplicable)
-- **Portfolio**: [Enlace a tu portafolio] (si tienes)
+- **Web empresarial**: https://sites.google.com/view/corpusdata/
+- **LinkedIn**: https://www.linkedin.com/in/brayan-vicente-hernandez/
+- **Email**: info.corpusdata@gmail.com
 
 ¡Gracias por visitar mi perfil! :3
