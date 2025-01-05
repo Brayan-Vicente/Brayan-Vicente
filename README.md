@@ -21,9 +21,11 @@ My name is Brayan Vicente, a graduate in Computer Science and Audiovisual Media.
 ## 💀 About me:
 I am a problem solver with an analytical mindset, always looking to improve my skills and stay updated with the latest trends in data science. I love working on collaborative projects and contributing to the open-source community.
 
-## 📈 Featured projects / Repositories:
-- Open government data https://github.com/Brayan-Vicente/datascience-project
-- **[Project Name 2]**: Brief description of the project, tools used, and results obtained.
-- **[Project Name 3]**: Brief description of the project and its impact.
+## 📈 Featured projects:
+- **Exploratory analysis Open government data:** https://github.com/Brayan-Vicente/datascience-project/blob/main/notebooks/2_exploracion.ipynb
+- **Análisis de Turismo en Colombia:** https://github.com/Brayan-Vicente/analisis_turismo_colombia/blob/main/Notebooks/Analysis.ipynb
 
 Thank you for visiting my profile! :3
+
+
+Check my repositories:
