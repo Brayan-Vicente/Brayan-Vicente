@@ -18,17 +18,12 @@ My name is Brayan Vicente, a graduate in Computer Science and Audiovisual Media.
 - **Audiovisual production tools**: Adobe Premiere, Adobe Photoshop, Lightroom, DaVinci Resolve
 - **Others**: Git, Jupyter, Azure, DataSpell, Pycharm, VS Code, Android Studio, Anaconda, Notion
 
-## 📈 Featured projects:
-- **[Project Name 1]**: Brief description of the project, focus, and results achieved.
-- **[Project Name 2]**: Brief description of the project, tools used, and results obtained.
-- **[Project Name 3]**: Brief description of the project and its impact.
-
 ## 📊 About me:
 I am a problem solver with an analytical mindset, always looking to improve my skills and stay updated with the latest trends in data science. I love working on collaborative projects and contributing to the open-source community.
 
-## 📫 Contact:
-- **Business website**: https://sites.google.com/view/corpusdata/
-- **LinkedIn**: https://www.linkedin.com/in/brayan-vicente-hernandez/
-- **Email**: info.corpusdata@gmail.com
+## 📈 Featured projects / Repositories:
+- **[datascience-project]**: Brief description of the project, focus, and results achieved.
+- **[Project Name 2]**: Brief description of the project, tools used, and results obtained.
+- **[Project Name 3]**: Brief description of the project and its impact.
 
 Thank you for visiting my profile! :3
