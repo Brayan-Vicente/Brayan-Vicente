@@ -1,5 +1,5 @@
-# Hola. Mi nombre es Brayan Vicente
-Soy un científico de datos apasionado por el análisis de datos, la inteligencia artificial y la creación de modelos predictivos. Mi objetivo es transformar datos complejos en insights claros y soluciones innovadoras. Con experiencia en análisis de datos, machine learning, y visualización, me encanta resolver problemas del mundo real usando herramientas de vanguardia.
+# Hola, te doy la bienvenida a mi perfil
+Mi nombre es Brayan Vicente, licenciado en informática y medios audiovisuales, soy un científico de datos apasionado por el análisis de datos, la inteligencia artificial y la creación de modelos predictivos. Mi objetivo es transformar datos complejos en insights claros y soluciones innovadoras. Con experiencia en análisis de datos, machine learning, y visualización, me encanta resolver problemas del mundo real usando herramientas de vanguardia.
 
 ## 🚀 Áreas de especialización:
 - Análisis exploratorio de datos (EDA)
