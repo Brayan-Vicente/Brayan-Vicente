@@ -31,4 +31,4 @@ Soy un solucionador de problemas con una mentalidad analítica, siempre buscando
 - **LinkedIn**: https://www.linkedin.com/in/brayan-vicente-hernandez/
 - **Email**: info.corpusdata@gmail.com
 
-¡Gracias por visitar mi perfil! :3
+¡Gracias por visitar mi perfil! ;3
