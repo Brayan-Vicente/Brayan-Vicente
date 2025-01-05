@@ -26,6 +26,3 @@ I am a problem solver with an analytical mindset, always looking to improve my s
 - **Análisis de Turismo en Colombia:** https://github.com/Brayan-Vicente/analisis_turismo_colombia/blob/main/Notebooks/Analysis.ipynb
 
 Thank you for visiting my profile! :3
-
-
-Check my repositories:
