@@ -10,7 +10,7 @@ My name is Brayan Vicente, a graduate in Computer Science and Audiovisual Media.
 - Optimization and advanced algorithms
 - Database design and optimization
 
-## 🛠 Tools and technologies:
+## 🖥️ Tools and technologies:
 - **Programming languages**: Python🐍, R, SQL, JavaScript, Dart
 - **Libraries and frameworks**: Pandas🐼, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, Plotly, Geopandas🌐🐼
 - **Databases**: MySQL, MongoDB, SQLite
@@ -22,7 +22,7 @@ My name is Brayan Vicente, a graduate in Computer Science and Audiovisual Media.
 I am a problem solver with an analytical mindset, always looking to improve my skills and stay updated with the latest trends in data science. I love working on collaborative projects and contributing to the open-source community.
 
 ## 📈 Featured projects / Repositories:
-- open government data https://github.com/Brayan-Vicente/datascience-project
+- Open government data https://github.com/Brayan-Vicente/datascience-project
 - **[Project Name 2]**: Brief description of the project, tools used, and results obtained.
 - **[Project Name 3]**: Brief description of the project and its impact.
 
